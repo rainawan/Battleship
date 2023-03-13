@@ -910,5 +910,6 @@ class battleship_game:
         self.print_display_board()
         # update turn
 
+      
         # update turn
         Player_Turn = 1
