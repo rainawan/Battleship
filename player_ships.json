@@ -1,0 +1,43 @@
+    {
+
+        "destroyer": {
+            "size": 2,
+            "orientation": "h",
+            "starting_pos": [
+                "E",
+                6
+            ]
+        },
+        "submarine": {
+            "size": 2,
+            "orientation": "h",
+            "starting_pos": [
+                "A",
+                2
+            ]
+        },
+        "battleship": {
+            "size": 3,
+            "orientation": "v",
+            "starting_pos": [
+                "B",
+                1
+            ]
+        },
+        "carrier": {
+            "size": 4,
+            "orientation": "v",
+            "starting_pos": [
+                "B",
+                4
+            ]
+        },
+        "cruiser": {
+            "size": 5,
+            "orientation": "h",
+            "starting_pos": [
+                "G",
+                3
+            ]
+        }
+    }
